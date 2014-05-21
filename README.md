@@ -6,5 +6,14 @@
 * Source: [wikimedia-svn-stats.php](./wikimedia-svn-stats.php)
 
 Screenshots:
-![Screenshot](http://i.imgur.com/ZuHowwK.png)
-![Screenshot](http://i.imgur.com/rfMyXGb.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048135/83ea433c-e141-11e3-9d25-681bdb76fcba.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048137/8be0c0f2-e141-11e3-8b72-b66024bd24c0.png)
+
+
+## Krinkle's Usage
+
+* Old url: http://krinkle-tools.grizzdesign.nl/KrinkleSausage.php
+* Source: [KrinkleSausage.php](./KrinkleSausage.php)
+
+Screenshots:
+![Screenshot](https://user-images.githubusercontent.com/156867/44926602-e1f5cb80-ad49-11e8-9970-78ef9a418560.png)
