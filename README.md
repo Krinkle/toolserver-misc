@@ -15,5 +15,14 @@ Screenshots:
 * Old url: http://krinkle-tools.grizzdesign.nl/KrinkleSausage.php
 * Source: [KrinkleSausage.php](./KrinkleSausage.php)
 
-Screenshots:
+Screenshot:
 ![Screenshot](https://user-images.githubusercontent.com/156867/44926602-e1f5cb80-ad49-11e8-9970-78ef9a418560.png)
+
+
+## Get Top RC Users
+
+* Old url: https://toolserver.org/~krinkle/getTopRCusers.php
+* Source: [getTopRCusers.php](./getTopRCusers.php)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3210496/f9f39488-eec6-11e3-8226-ebdf2af7f3cb.png)
