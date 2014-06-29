@@ -48,3 +48,11 @@ Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424637/71d72f54-ffda-11e3-962f-842d59011ce2.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424636/71d68cfc-ffda-11e3-9c6d-1044de958d3e.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424635/71d6652e-ffda-11e3-9480-eefb8a8c2fd9.png)
+
+## TSUsers:
+
+* Old url: https://toolserver.org/~krinkle/TSUsers.php
+* Source: [TSUsers.php](./TSUsers.php)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424695/d8804458-ffde-11e3-86d3-a1974c625f06.png)
