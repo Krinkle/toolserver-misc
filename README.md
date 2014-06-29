@@ -1,5 +1,10 @@
 # Krinkle's Toolserver graveyard
 
+* [wikimedia-svn-stats](#wikimedia-svn-stats)
+* [Krinkle's Usage](#krinkles-usage)
+* [Get Top RC Users](#get-top-rc-users)
+* [MoreContributions](#morecontributions)
+
 ## wikimedia-svn-stats
 
 * Old url: https://toolserver.org/~krinkle/wikimedia-svn-stats.php
