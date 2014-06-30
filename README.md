@@ -21,7 +21,7 @@
 ## wikimedia-svn-stats
 
 * Old url: https://toolserver.org/~krinkle/wikimedia-svn-stats.php
-* Source: [wikimedia-svn-stats.php](./wikimedia-svn-stats.php)
+* Source: [wikimedia-svn-stats.php](./public_html/wikimedia-svn-stats.php)
 
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048135/83ea433c-e141-11e3-9d25-681bdb76fcba.png)
@@ -30,7 +30,7 @@ Screenshots:
 ## KrinkleSausage
 
 * Old url: http://krinkle-tools.grizzdesign.nl/KrinkleSausage.php
-* Source: [KrinkleSausage.php](./KrinkleSausage.php)
+* Source: [KrinkleSausage.php](./public_html/KrinkleSausage.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048133/6b981b92-e141-11e3-9c7d-8882651a918f.png)
@@ -38,7 +38,7 @@ Screenshot:
 ## Get Top RC Users
 
 * Old url: https://toolserver.org/~krinkle/getTopRCusers.php
-* Source: [getTopRCusers.php](./getTopRCusers.php)
+* Source: [getTopRCusers.php](./public_html/getTopRCusers.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3210496/f9f39488-eec6-11e3-8226-ebdf2af7f3cb.png)
@@ -46,7 +46,7 @@ Screenshot:
 ## Get Top RC Pages
 
 * Old url: https://toolserver.org/~krinkle/getTopRCpages.php
-* Source: [getTopRCpages.php](./getTopRCpages.php)
+* Source: [getTopRCpages.php](./public_html/getTopRCpages.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428500/8250a8ee-0041-11e4-849d-3b9b8546dd90.png)
@@ -54,7 +54,7 @@ Screenshot:
 ## MoreContributions
 
 * Old url: https://toolserver.org/~krinkle/MoreContributions/
-* Source: [MoreContributions](./MoreContributions/)
+* Source: [MoreContributions](./public_html/MoreContributions/)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424353/08c29bb0-ffcc-11e3-82ff-42c7f53a738f.png)
@@ -62,7 +62,7 @@ Screenshot:
 ## CommonsCreatorLister
 
 * Old url: https://toolserver.org/~krinkle/CommonsCreatorLister/
-* Source: [CommonsCreatorLister](./CommonsCreatorLister/)
+* Source: [CommonsCreatorLister](./public_html/CommonsCreatorLister/)
 
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424637/71d72f54-ffda-11e3-962f-842d59011ce2.png)
@@ -72,7 +72,7 @@ Screenshots:
 ## TSUsers
 
 * Old url: https://toolserver.org/~krinkle/TSUsers.php
-* Source: [TSUsers.php](./TSUsers.php)
+* Source: [TSUsers.php](./public_html/TSUsers.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424695/d8804458-ffde-11e3-86d3-a1974c625f06.png)
@@ -88,7 +88,7 @@ Screenshot:
 ## CommonsMoveReview
 
 * Old url: https://toolserver.org/~krinkle/CommonsMoveReview.php
-* Source: [CommonsMoveReview.php](./CommonsMoveReview.php)
+* Source: [CommonsMoveReview.php](./public_html/CommonsMoveReview.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428344/6207f896-003f-11e4-9d85-f763f3dff5e4.png)
@@ -96,7 +96,7 @@ Screenshot:
 ## SpeedUserPatrol
 
 * Old url: https://toolserver.org/~krinkle/SpeedUserPatrol.php
-* Source: [SpeedUserPatrol.php](./SpeedUserPatrol.php)
+* Source: [SpeedUserPatrol.php](./public_html/SpeedUserPatrol.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428453/ead06cc0-0040-11e4-980f-17a941faeb65.png)
@@ -104,7 +104,7 @@ Screenshot:
 ## InterfaceFiles
 
 * Old url: https://toolserver.org/~krinkle/InterfaceFiles.php
-* Source: [InterfaceFiles.php](./InterfaceFiles.php)
+* Source: [InterfaceFiles.php](./public_html/InterfaceFiles.php)
 
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428555/259d63de-0042-11e4-8bcb-a908140048ab.png)
@@ -113,7 +113,7 @@ Screenshots:
 ## mwDatabaseSchema
 
 * Old url: https://toolserver.org/~krinkle/mwDatabaseSchema/
-* Source: [mwDatabaseSchema](./mwDatabaseSchema/)
+* Source: [mwDatabaseSchema](./public_html/mwDatabaseSchema/)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428684/56bcd128-0044-11e4-9d60-eed4dcdfe75d.png)
@@ -130,7 +130,7 @@ Screenshots:
 ## SingleAuthorTalk
 
 * Old url: https://toolserver.org/~krinkle/SingleAuthorTalk.php
-* Source: [SingleAuthorTalk.php](./SingleAuthorTalk.php)
+* Source: [SingleAuthorTalk.php](./public_html/SingleAuthorTalk.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432461/01fe2066-0075-11e4-89fa-6b9c5b2ea4f9.png)
@@ -138,7 +138,7 @@ Screenshot:
 ## SiteMatrixChecklist
 
 * Old url: https://toolserver.org/~krinkle/SiteMatrixChecklist/
-* Source: [SiteMatrixChecklist](./SiteMatrixChecklist/)
+* Source: [SiteMatrixChecklist](./public_html/SiteMatrixChecklist/)
 
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png)
@@ -147,7 +147,7 @@ Screenshots:
 ## WikiInfo
 
 * Old url: https://toolserver.org/~krinkle/WikiInfo/
-* Source: [WikiInfo](./WikiInfo/)
+* Source: [WikiInfo](./public_html/WikiInfo/)
 
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433133/6c5c5db8-007c-11e4-8b25-dd711a40078b.png)
@@ -165,4 +165,4 @@ Screenshots:
 ## TestWikipediaCrapPopulation
 
 * Bot actions: [Sample edits on test.wikipedia.org](https://test.wikipedia.org/wiki/Special:Contributions/KrinkleBot?year=2013&month=2&namespace=2)
-* Source: [bots/TestWikipediaCrapPopulation](./bots/TestWikipediaCrapPopulation/)
+* Source: [TestWikipediaCrapPopulation](./bots/TestWikipediaCrapPopulation/)
