@@ -4,13 +4,8 @@
  *
  * Created on May 11th, 2010
  *
- * Copyright (c) 2010 Krinkle <krinklemail@gmail.com>
- *
- * Real-Time Recent Changes by Krinkle [1] is licensed under
- * a Creative Commons Attribution-Share Alike 3.0 Unported License [2]
- *
- * [1] commons.wikimedia.org/wiki/User:Krinkle
- * [2] creativecommons.org/licenses/by-sa/3.0/
+ * @author Krinkle <krinklemail@gmail.com>, 2010–2014
+ * @license http://krinkle.mit-license.org/
  */
 $c['debug'] = isset( $_GET['debug'] );
 /**
@@ -168,10 +163,7 @@ array_unshift($c['filenames'], "File:Krinkle_RTRC.js")
 ?></ul>
 
 		<h3 id="author">Author</h3>
-
-			<p><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type"><?=$c['title']?></span> by <a xmlns:cc="//creativecommons.org/ns#" href="//commons.wikimedia.org/wiki/User:Krinkle" property="cc:attributionName" rel="cc:attributionURL">Krinkle</a> is licensed under a <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.</p>
-			<hr/>
-			<p>Contact me at <em>krinklemail<img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/15px-At_sign.svg.png" alt="at"/>gmail&middot;com</em>, or leave a message on the <a href="//meta.wikimedia.org/w/index.php?title=User_talk:Krinkle/Tools&action=edit&section=new&editintro=User_talk:Krinkle/Tools/Editnotice&preload=User_talk:Krinkle/Tools/Preload">Tools feedback page</a>.</p>
+			<p>Contact me at <em>krinklemail<img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/15px-At_sign.svg.png" alt="at"/>gmail&middot;com</em>, or leave a message on the <a href="//meta.wikimedia.org/w/index.php?title=User_talk:Krinkle/Tools&action=edit&section=new&preload=User_talk:Krinkle/Tools/Preload">Tools feedback page</a>.</p>
 
 
 </div>
