@@ -34,6 +34,14 @@ Screenshot:
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3210496/f9f39488-eec6-11e3-8226-ebdf2af7f3cb.png)
 
+## Get Top RC Pages
+
+* Old url: https://toolserver.org/~krinkle/getTopRCpages.php
+* Source: [getTopRCpages.php](./getTopRCpages.php)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428500/8250a8ee-0041-11e4-849d-3b9b8546dd90.png)
+
 ## MoreContributions
 
 * Old url: https://toolserver.org/~krinkle/MoreContributions/
@@ -75,3 +83,20 @@ Screenshot:
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428344/6207f896-003f-11e4-9d85-f763f3dff5e4.png)
+
+## SpeedUserPatrol
+
+* Old url: https://toolserver.org/~krinkle/SpeedUserPatrol.php
+* Source: [SpeedUserPatrol.php](./SpeedUserPatrol.php)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428453/ead06cc0-0040-11e4-980f-17a941faeb65.png)
+
+## InterfaceFiles
+
+* Old url: https://toolserver.org/~krinkle/InterfaceFiles.php
+* Source: [InterfaceFiles.php](./InterfaceFiles.php)
+
+Screenshots:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428555/259d63de-0042-11e4-8bcb-a908140048ab.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428556/259dd33c-0042-11e4-8be2-ca48a25ba121.png)
