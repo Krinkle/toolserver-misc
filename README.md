@@ -120,5 +120,5 @@ Screenshot:
 * Source: [ts-krinkle-getWikiAPI.git](https://github.com/Krinkle/wmf-tool-wikiinfo/tree/v0.3.0)
 
 Screenshots:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429547/cfac9a08-0055-11e4-94a8-c5dff0ad99be.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429548/cfad0204-0055-11e4-8946-29e0d90ab3bb.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429547/cfac9a08-0055-11e4-94a8-c5dff0ad99be.png)
