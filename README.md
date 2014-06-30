@@ -67,4 +67,10 @@ Screenshot:
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428015/f6f9b822-003a-11e4-8731-c032e93c0bd7.png)
 
+## CommonsMoveReview
 
+* Old url: https://toolserver.org/~krinkle/CommonsMoveReview.php
+* Source: [CommonsMoveReview.php](./CommonsMoveReview.php)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428344/6207f896-003f-11e4-9d85-f763f3dff5e4.png)

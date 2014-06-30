@@ -1105,7 +1105,7 @@ function wikiDataFromRow( $row, $input = '', $search = '' ) {
 // @param $wikiData [data] from getWikiAPI or url-string like 'http://domain.tl' without trailing slash
 function getWikiLink( $wikiData, $pagename, $p ) {
         if ( is_array( $wikiData ) ) {
-                $url = $wikiData['url'];
+                $url = $wikiData['canonical_url'];
         } else {
                 $url = $wikiData;
         }
