@@ -3,11 +3,14 @@
 * [wikimedia-svn-stats](#wikimedia-svn-stats)
 * [KrinkleSausage](#krinklesausage)
 * [Get Top RC Users](#get-top-rc-users)
+* [Get Top RC Pages](#get-top-rc-pages)
 * [MoreContributions](#morecontributions)
 * [CommonsCreatorLister](#commonscreatorlister)
 * [TSUsers](#tsusers)
 * [wmfBugZillaPortal](#wmfbugzillaportal)
 * [CommonsMoveReview](#commonsmovereview)
+* [SpeedUserPatrol](#speeduserpatrol)
+* [InterfaceFiles](#interfacefiles)
 
 ## wikimedia-svn-stats
 
