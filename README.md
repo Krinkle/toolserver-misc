@@ -13,6 +13,7 @@
 * [SiteMatrixChecklist](#sitematrixchecklist)
 * [SpeedUserPatrol](#speeduserpatrol)
 * [TSUsers](#tsusers)
+* [WikiInfo](#wikiinfo)
 * [wikimedia-svn-stats](#wikimedia-svn-stats)
 * [wmfBugZillaPortal](#wmfbugzillaportal)
 
@@ -141,3 +142,21 @@ Screenshot:
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432917/20a51600-007a-11e4-91e0-ba2257e72967.png)
+
+## WikiInfo
+
+* Old url: https://toolserver.org/~krinkle/WikiInfo/
+* Source: [WikiInfo](./WikiInfo/)
+
+Screenshots:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433133/6c5c5db8-007c-11e4-8b25-dd711a40078b.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433135/6c5cef08-007c-11e4-9e20-dc0a08e11240.png)
+<table><tr>
+<th>Size</th>
+<th>Most recent edit</th>
+<th>First edit</th>
+</tr><tr>
+<td><img width="150" title="Screenshot" src="https://cloud.githubusercontent.com/assets/156867/3433134/6c5ce42c-007c-11e4-906d-bfa8b79a1175.png"/></td>
+<td><img width="150" title="Screenshot" src="https://cloud.githubusercontent.com/assets/156867/3433136/6c5d6ad2-007c-11e4-85fc-7d72c98a8382.png"/></td>
+<td><img width="150" title="Screenshot" src="https://cloud.githubusercontent.com/assets/156867/3433132/6c5bdcee-007c-11e4-8109-952b11bf17d5.png"/></td>
+</tr></table>
