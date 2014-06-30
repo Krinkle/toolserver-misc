@@ -7,6 +7,7 @@
 * [CommonsCreatorLister](#commonscreatorlister)
 * [TSUsers](#tsusers)
 * [wmfBugZillaPortal](#wmfbugzillaportal)
+* [CommonsMoveReview](#commonsmovereview)
 
 ## wikimedia-svn-stats
 
