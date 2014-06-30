@@ -5,6 +5,8 @@
 * [Get Top RC Users](#get-top-rc-users)
 * [MoreContributions](#morecontributions)
 * [CommonsCreatorLister](#commonscreatorlister)
+* [TSUsers](#tsusers)
+* [wmfBugZillaPortal](#wmfbugzillaportal)
 
 ## wikimedia-svn-stats
 
@@ -49,10 +51,20 @@ Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424636/71d68cfc-ffda-11e3-9c6d-1044de958d3e.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424635/71d6652e-ffda-11e3-9480-eefb8a8c2fd9.png)
 
-## TSUsers:
+## TSUsers
 
 * Old url: https://toolserver.org/~krinkle/TSUsers.php
 * Source: [TSUsers.php](./TSUsers.php)
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424695/d8804458-ffde-11e3-86d3-a1974c625f06.png)
+
+## wmfBugZillaPortal
+
+* Old url: https://toolserver.org/~krinkle/wmfBugZillaPortal/
+* Source: [ts-krinkle-wmfBugZillaPortal.git](https://github.com/Krinkle/ts-krinkle-wmfBugZillaPortal)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428015/f6f9b822-003a-11e4-8731-c032e93c0bd7.png)
+
+
