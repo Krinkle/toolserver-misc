@@ -1,0 +1,709 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style-position: inside;
+}
+
+html {
+	overflow-y: auto;
+}
+
+body {
+	font: 14px/1 Georgia, Serif;
+	color: #333;
+	line-height: 20px;
+	background: #e9e9e9;
+}
+
+.nonserif,
+.ns,
+.wikihead {
+	font-family: 'Helvetiva Neue', Arial, Helvetica, sans-serif;
+}
+
+.serif,
+.sf {
+	font-family: Georgia, Serif;
+}
+
+p,
+li {
+	margin: 0 0 5px;
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+	padding-left: 20px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+a,
+a img {
+	border: none;
+	outline: none;
+}
+
+.floatLeft {
+	float: left;
+}
+
+.floatRight {
+	float: right;
+}
+
+.aligncenter {
+	margin: 0 auto;
+}
+
+img.aligncenter {
+	display: block;
+}
+
+.clear,
+[clear] {
+	clear: both;
+	display: block;
+}
+
+.hide,
+[x] {
+	display: none;
+}
+
+#page-wrap {
+	width: 960px;
+	margin: 25px auto 40px;
+	z-index: 3000px;
+	padding: 0 20px;
+	position: relative;
+	background: #fff;
+	outline: 20px solid #fff;
+	outline-top-width: 5px;
+}
+
+.JS h1:hover {
+	cursor: pointer;
+}
+
+h2,
+h3,
+h4,
+h5 {
+	margin: 25px 0 15px -20px;
+	font-weight: 700;
+}
+
+h2.wikihead,
+h3.wikihead,
+h4.wikihead,
+h5.wikihead {
+	margin: 15px 0 10px;
+	font-weight: 400;
+	border-bottom: 1px solid #AAA;
+}
+
+h1,
+.main-style {
+	font: 26px Georgia, Serif;
+	margin: 10px 0;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+h4 {
+	font-size: 15px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+h5 {
+	font-size: 14px;
+	margin-top: 7px;
+	margin-bottom: 2px;
+	font-weight: 400;
+}
+
+hr {
+	margin: .2em 0;
+	clear: both;
+}
+
+hr.outside {
+	margin-left: -20px;
+}
+
+pre {
+	word-wrap: break-word;
+}
+
+.mw-code {
+	border: 1px solid #EBEBEB;
+	background-color: #F7F7F7;
+	padding: 1em;
+}
+
+/* #page-wrap prefix due to jQuery UI overriding a{color}... */
+a,
+#page-wrap a,
+.link,
+.link:visited {
+	color: #0645ad;
+	text-decoration: none;
+}
+
+a:hover,
+#page-wrap a:hover,
+.link:hover {
+	cursor: pointer;
+}
+
+.link:hover {
+	text-decoration: underline;
+}
+
+a:visited,
+#page-wrap a:visited {
+	color: #636;
+}
+
+.nonvisitedlinks a:visited {
+	color: #636;
+}
+
+a:hover,
+.link:hover {
+	color: #faa700;
+}
+
+a.new,
+#page-wrap a.new,
+.link.new {
+	color: #BA0000;
+}
+
+h1 a {
+	color: #333 !important;
+	text-decoration: none;
+}
+
+abbr {
+	border-bottom: 1px dotted #888;
+}
+
+abbr:hover,
+label[title]:hover {
+	cursor: help;
+}
+
+.js-only {
+	display: none;
+}
+
+.JS .js-only {
+	display: block !important;
+}
+
+.non-js {
+	display: none;
+}
+
+/* was "display: block".
+	I've moved that to "main-bottomload.css"
+	Because when a page is slow (ie. a slow mysql query)
+	.. then it's being flashed first and then dissapears as the bottom of the page is reached.
+	Now it'll be hidden no matter what,  and either become visible at the and of load through bottomload-css Ð
+	Or the CSS loaded at the end will be directly overrriden by the below  !important rule */
+.JS .non-js {
+	display: none !important;
+}
+
+/* Contain floats:  h5bp.com/q */
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1;
+}
+
+/* .basetool-msg class */
+.basetool-msg {
+	margin: 5px 0 10px;
+	padding: 7px;
+	background: #e9e9e9;
+	border: 1px solid #888;
+	font-weight: 700;
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px #888;
+}
+
+.basetool-msg.warning,
+.basetool-msg.error {
+	padding-top: 15px;
+	padding-left: 60px;
+	min-height: 35px;
+}
+
+.basetool-msg.warning {
+	background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Crystal_Clear_app_error.png/45px-Crystal_Clear_app_error.png);
+	background-position: 5px 5px;
+	background-repeat: no-repeat;
+}
+
+/* Legacy .msg class */
+.msg {
+	margin: 5px 0 10px;
+	padding: .5em;
+	background: #e9e9e9;
+	border: 1px solid #888;
+	font-weight: 700;
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px #888;
+}
+
+.msg img {
+	vertical-align: middle;
+	float: none;
+	margin: 0 .5em 0 0;
+}
+
+.msgline {
+	margin: 0 0 5px;
+	padding: .2em;
+	border: 1px solid #888;
+}
+
+.msg img {
+	vertical-align: middle;
+	float: none;
+	margin: 0 .5em 0 0;
+}
+
+.msg p {
+	margin: 0;
+}
+
+.msg.thanks,
+.msg.success {
+	background: #9f3;
+	border: 1px solid green;
+	box-shadow: 1px 1px 5px green;
+}
+
+.msg.error {
+	color: #000;
+	background: #ffe9e9;
+	border: 2px solid red;
+	box-shadow: 1px 1px 5px red;
+}
+
+.msgline.error {
+	color: #000;
+	box-shadow: 1px 1px 5px red;
+}
+
+.warning-msg {
+	margin: 5px 0 10px;
+	padding: .5em;
+	background-color: #333;
+	color: #eee;
+	letter-spacing: 1px;
+	font: 15px/140% HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.warning-msg small {
+	font-size: 11px;
+	line-height: 100%;
+	letter-spacing: 0;
+}
+
+.warning-msg a {
+	color: #00BFFF;
+}
+
+.warning-msg img {
+	margin: 0 .5em .5em 0;
+}
+
+.warning-msg strong {
+	font-size: larger;
+}
+
+/* KAIR */
+.kair-list li {
+	margin: 15px 0;
+}
+
+.kair-list .kair-button {
+	margin: 5px 0 10px;
+	padding: 5px 8px;
+	background: #9f3;
+	border: 1px solid green;
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px green;
+}
+
+table.wikitable,
+.wikitable {
+	background: #f9f9f9;
+	border: 1px #aaa solid;
+	border-collapse: collapse;
+	margin-bottom: 25px;
+}
+
+table.wikitable th,
+table.wikitable td {
+	border: 1px #aaa solid;
+	padding: .35em;
+}
+
+table.wikitable th {
+	background: #ddd;
+	text-align: center;
+}
+
+table.simpletable {
+	background: transparent;
+	border: 1px #aaa solid;
+	border-collapse: collapse;
+	margin-bottom: 0;
+}
+
+table.simpletable th,
+table.simpletable td {
+	border: 1px #aaa solid;
+	padding: .35em;
+	vertical-align: top;
+}
+
+table.simpletable th {
+	font-variant: normal;
+}
+
+.v-top td {
+	vertical-align: top;
+}
+
+button {
+	padding: 2px 6px 3px;
+}
+
+input.placeholder {
+	color: #999;
+}
+
+/* Colly forms */
+form.colly {
+	width: 100%;
+}
+
+form.colly fieldset {
+	border: 1px solid threedface;
+	padding: 10px;
+}
+
+form.colly fieldset legend {
+	font-size: 1.1em;
+	padding: 0 5px;
+}
+
+form.colly label {
+	display: block;
+	float: left;
+	margin: 5px 0 0;
+	padding: 0;
+	text-align: right;
+	width: 250px;
+}
+
+form.colly input {
+	padding: 5px 8px;
+	display: inline-block;
+}
+
+form.colly input,
+form.colly select,
+form.colly textarea,
+form.colly span {
+	margin: 5px 0 3px 10px;
+	width: auto;
+	padding: 5px 8px;
+}
+
+form.colly input[type=text],
+form.colly input[type=password] {
+	border: 1px solid #CCC;
+	width: 240px;
+	font-size: 1.1em;
+}
+
+form.colly .prewrap {
+	margin: 5px 0 3px 10px;
+	width: auto;
+	display: inline-block;
+}
+
+form.colly .prewrap input {
+	margin: 0;
+}
+
+form.colly select {
+	position: relative !important;
+}
+
+form.colly br, form.colly span {
+	clear: both;
+}
+
+form.colly span {
+	display: block;
+	margin: -3px 0 3px 160px;
+	padding: 0;
+	text-align: left;
+	font-style: italic;
+	font-size: smaller;
+	clear: left;
+}
+
+/* Folly fields */
+form.folly input {
+	padding: 2px 3px;
+}
+
+form.folly input[type=text],
+form.folly input[type=password] {
+	margin: 0 2px 0 0;
+	border: 1px solid #CCC;
+	font-size: 1.1em;
+}
+
+/* Molly fields */
+form.molly {
+	width: 100%;
+}
+
+form.molly fieldset {
+	border: 1px solid threedface;
+	padding: 10px;
+}
+
+form.molly fieldset legend {
+	font-size: 1.1em;
+	padding: 0 5px;
+}
+
+form.molly input {
+	padding: 2px 3px;
+}
+
+form.molly input[type=text],
+form.molly input[type=password] {
+	margin: 0 2px 0 0;
+	border: 1px solid #CCC;
+	width: 240px;
+	font-size: 1.1em;
+}
+
+form.molly br {
+	clear: both;
+}
+
+form.molly .pushside {
+	float: left;
+	text-align: right;
+	width: 150px;
+}
+
+form.molly .pushside + input[type=text],
+form.molly .pushside + input[type=password],
+form.molly .pushside + input[type=checkbox] {
+	margin: 5px 0 3px 10px;
+	width: auto;
+	padding: 5px 8px;
+}
+
+form.molly label[title],
+input[title] {
+	cursor: help;
+}
+
+span.req {
+	color: red !important;
+}
+
+input[type="submit"] {
+	float: right;
+}
+
+input[nof],
+.nof {
+	float: none !important;
+}
+
+textarea {
+	margin: 5px 0 10px;
+}
+
+table.miniTable {
+	border-collapse: collapse;
+}
+
+/* Simple collapsers (see also main.js) */
+.collapseWrap {
+	display: block;
+}
+
+.collapseInner {
+	display: block;
+}
+
+.collapseWrapToggle {
+	display: none;
+	float: right;
+}
+
+body.JS .collapseWrap .collapseInner {
+	display: none;
+}
+
+body.JS .collapseWrap.collapsed {
+	display: inline;
+}
+
+body.JS .collapseWrap.collapsed .collapseWrapToggle {
+	display: inline;
+	font-size: smaller;
+}
+
+body.JS .collapseWrap.expanded {
+	display: block;
+}
+
+body.JS .collapseWrap.expanded .collapseWrapToggle {
+	display: block;
+}
+
+body.JS .collapseWrap.expanded .collapseInner {
+	clear: both;
+}
+
+/* elements */
+#htmlinput {
+	font-family: 'courier new';
+	overflow: auto;
+}
+
+#htmloutput-wrap {
+	background-color: #ddd;
+	margin: 5px 0 50px;
+	padding: 15px;
+	overflow: auto;
+}
+
+#htmloutput {
+	background-color: #e9e9e9;
+	padding: 5px 8px;
+	font-family: 'Courier New';
+	min-height: 72px;
+}
+
+#copied-notice2 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 8000px;
+}
+
+#copied-notice {
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #eee;
+	width: auto;
+	text-align: center;
+	font-size: 300%;
+	display: none;
+}
+
+pre.js-copy {
+	background: #e9e9e9 url(clipboard-64px.png) top right no-repeat;
+}
+
+#cc code,
+#cc div {
+	display: block;
+	margin-left: 15px;
+	padding: 5px;
+	border: 1px dotted #888;
+}
+
+/* From svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/resources/jquery/jquery.makeCollapsible.css?revision=79075&view=co */
+/* See also jquery.makeCollapsible.js */
+.mw-collapsible-toggle {
+	float: right;
+}
+
+.mw-collapsible-toggle-expanded,
+.mw-collapsible-toggle-expanded a {
+	cursor: n-resize;
+}
+
+.mw-collapsible-toggle-collapsed,
+.mw-collapsible-toggle-collapsed a {
+	cursor: s-resize;
+}
+
+/* list-items go as wide as their parent element,  don't float them inside list items */
+li .mw-collapsible-toggle {
+	float: none;
+}
+
+/* the added list item should have no list-style */
+.mw-collapsible-toggle-li {
+	list-style: none;
+}
+
+/* Colored watchlist and recent changes numbers */
+.mw-plusminus-pos {
+	color: #006400;
+}
+.mw-plusminus-neg {
+	color: #8b0000;
+}
+.mw-plusminus-null {
+	color: #aaa;
+}
+
+/* gray */
+.comment {
+	font-style: italic;
+}
+
+/* Toolserver Intuition */
+.tsint-dashboardbacklink {
+	float: right;
+}
+
+.tsint-promobox {
+	border: 1px solid threedface;
+	padding: 5px 8px;
+	margin: 10px 0;
+	font-size: 85%;
+}
+
+.tsint-promobox .tsint-dashboardbacklink {
+	float: none;
+}
