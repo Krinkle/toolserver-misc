@@ -12,6 +12,7 @@
 * [SingleAuthorTalk](#singleauthortalk)
 * [SiteMatrixChecklist](#sitematrixchecklist)
 * [SpeedUserPatrol](#speeduserpatrol)
+* [TestWikipediaCrapPopulation](#testwikipediacrappopulation)
 * [TSUsers](#tsusers)
 * [WikiInfo](#wikiinfo)
 * [wikimedia-svn-stats](#wikimedia-svn-stats)
@@ -160,3 +161,8 @@ Screenshots:
 <td><img width="150" title="Screenshot" src="https://cloud.githubusercontent.com/assets/156867/3433136/6c5d6ad2-007c-11e4-85fc-7d72c98a8382.png"/></td>
 <td><img width="150" title="Screenshot" src="https://cloud.githubusercontent.com/assets/156867/3433132/6c5bdcee-007c-11e4-8109-952b11bf17d5.png"/></td>
 </tr></table>
+
+## TestWikipediaCrapPopulation
+
+* Bot actions: [Sample edits on test.wikipedia.org](https://test.wikipedia.org/wiki/Special:Contributions/KrinkleBot?year=2013&month=2&namespace=2)
+* Source: [bots/TestWikipediaCrapPopulation](./bots/TestWikipediaCrapPopulation/)
