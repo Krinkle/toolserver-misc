@@ -11,6 +11,7 @@
 * [CommonsMoveReview](#commonsmovereview)
 * [SpeedUserPatrol](#speeduserpatrol)
 * [InterfaceFiles](#interfacefiles)
+* [mwDatabaseSchema](#mwdatabaseschema)
 
 ## wikimedia-svn-stats
 
@@ -103,3 +104,11 @@ Screenshot:
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428555/259d63de-0042-11e4-8bcb-a908140048ab.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428556/259dd33c-0042-11e4-8be2-ca48a25ba121.png)
+
+## mwDatabaseSchema
+
+* Old url: https://toolserver.org/~krinkle/mwDatabaseSchema/
+* Source: [mwDatabaseSchema](./mwDatabaseSchema/)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428684/56bcd128-0044-11e4-9d60-eed4dcdfe75d.png)
