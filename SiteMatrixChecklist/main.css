@@ -1,0 +1,31 @@
+/* Status */
+.smc-closed {
+	background: #DFDFDF;
+	font-size: smaller;
+}
+
+.smc-unchecked {
+	font-style: italic;
+	font-size: smaller;
+}
+
+.smc-checking {
+	font-size: smaller;
+}
+
+.smc-stat-ok {
+	background: #AFA;
+}
+
+.smc-stat-later {
+	background: #FFA;
+}
+
+.smc-stat-broken {
+	background: #FAA;
+}
+
+/* Comment */
+.smc-comment {
+	font-size: smaller;
+}

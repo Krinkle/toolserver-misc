@@ -1,19 +1,20 @@
 # Krinkle's Toolserver graveyard
 
-* [wikimedia-svn-stats](#wikimedia-svn-stats)
-* [KrinkleSausage](#krinklesausage)
-* [Get Top RC Users](#get-top-rc-users)
-* [Get Top RC Pages](#get-top-rc-pages)
-* [MoreContributions](#morecontributions)
 * [CommonsCreatorLister](#commonscreatorlister)
-* [TSUsers](#tsusers)
-* [wmfBugZillaPortal](#wmfbugzillaportal)
 * [CommonsMoveReview](#commonsmovereview)
-* [SpeedUserPatrol](#speeduserpatrol)
-* [InterfaceFiles](#interfacefiles)
-* [mwDatabaseSchema](#mwdatabaseschema)
+* [Get Top RC Pages](#get-top-rc-pages)
+* [Get Top RC Users](#get-top-rc-users)
 * [getWikiAPI](#getwikiapi)
+* [InterfaceFiles](#interfacefiles)
+* [KrinkleSausage](#krinklesausage)
+* [MoreContributions](#morecontributions)
+* [mwDatabaseSchema](#mwdatabaseschema)
 * [SingleAuthorTalk](#singleauthortalk)
+* [SiteMatrixChecklist](#sitematrixchecklist)
+* [SpeedUserPatrol](#speeduserpatrol)
+* [TSUsers](#tsusers)
+* [wikimedia-svn-stats](#wikimedia-svn-stats)
+* [wmfBugZillaPortal](#wmfbugzillaportal)
 
 ## wikimedia-svn-stats
 
@@ -131,3 +132,12 @@ Screenshots:
 
 Screenshot:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432461/01fe2066-0075-11e4-89fa-6b9c5b2ea4f9.png)
+
+## SiteMatrixChecklist
+
+* Old url: https://toolserver.org/~krinkle/SiteMatrixChecklist/
+* Source: [SiteMatrixChecklist](./SiteMatrixChecklist/)
+
+Screenshots:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432917/20a51600-007a-11e4-91e0-ba2257e72967.png)
