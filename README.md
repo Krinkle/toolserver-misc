@@ -13,6 +13,7 @@
 * [InterfaceFiles](#interfacefiles)
 * [mwDatabaseSchema](#mwdatabaseschema)
 * [getWikiAPI](#getwikiapi)
+* [SingleAuthorTalk](#singleauthortalk)
 
 ## wikimedia-svn-stats
 
@@ -122,3 +123,11 @@ Screenshot:
 Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429548/cfad0204-0055-11e4-8946-29e0d90ab3bb.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429547/cfac9a08-0055-11e4-94a8-c5dff0ad99be.png)
+
+## SingleAuthorTalk
+
+* Old url: https://toolserver.org/~krinkle/SingleAuthorTalk.php
+* Source: [SingleAuthorTalk.php](./SingleAuthorTalk.php)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432461/01fe2066-0075-11e4-89fa-6b9c5b2ea4f9.png)
