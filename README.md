@@ -20,137 +20,186 @@
 * [wmfBugZillaPortal](#wmfbugzillaportal)
 
 ## wikimedia-svn-stats
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-green.svg)
 
-* Old url: https://toolserver.org/~krinkle/wikimedia-svn-stats.php
-* Source: [wikimedia-svn-stats.php](./public_html/wikimedia-svn-stats.php)
+Superseded by [**github.com/search @wikimedia**](https://github.com/search?q=wgHooks+%40wikimedia&type=Code).
 
-Screenshots:
+* Status: Taken down as Wikimedia SVN is no longer in use.
+  <br>The new Git repositories are mirrored on GitHub which has a much better search engine.
+* Source code: [wikimedia-svn-stats.php](./public_html/wikimedia-svn-stats.php)
+* Old address: https://toolserver.org/~krinkle/wikimedia-svn-stats.php
+
+Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048135/83ea433c-e141-11e3-9d25-681bdb76fcba.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048137/8be0c0f2-e141-11e3-8b72-b66024bd24c0.png)
 
 ## KrinkleSausage
+![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
 
-* Old url: http://krinkle-tools.grizzdesign.nl/KrinkleSausage.php
-* Source: [KrinkleSausage.php](./public_html/KrinkleSausage.php)
+Migrated to [**tools.wmflabs.org/usage**](https://tools.wmflabs.org/usage/?action=usage&group=Krinkle).
 
-Screenshot:
+* Source code: [KrinkleSausage.php](./public_html/KrinkleSausage.php)
+* Old address: http://krinkle-tools.grizzdesign.nl/KrinkleSausage.php
+
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048133/6b981b92-e141-11e3-9c7d-8882651a918f.png)
 
 ## Get Top RC Users
+![Pending migration](https://img.shields.io/badge/status-pending-orange.svg)
 
-* Old url: https://toolserver.org/~krinkle/getTopRCusers.php
-* Source: [getTopRCusers.php](./public_html/getTopRCusers.php)
+* Status: https://github.com/Krinkle/ts-krinkle-misc/issues/2
+* Source code: [getTopRCusers.php](./public_html/getTopRCusers.php)
+* Old address: https://toolserver.org/~krinkle/getTopRCusers.php
 
-Screenshot:
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3210496/f9f39488-eec6-11e3-8226-ebdf2af7f3cb.png)
 
 ## Get Top RC Pages
+![Pending migration](https://img.shields.io/badge/status-pending-orange.svg)
 
-* Old url: https://toolserver.org/~krinkle/getTopRCpages.php
-* Source: [getTopRCpages.php](./public_html/getTopRCpages.php)
+* Status: https://github.com/Krinkle/ts-krinkle-misc/issues/3
+* Source code: [getTopRCpages.php](./public_html/getTopRCpages.php)
+* Old address: https://toolserver.org/~krinkle/getTopRCpages.php
 
-Screenshot:
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428500/8250a8ee-0041-11e4-849d-3b9b8546dd90.png)
 
 ## MoreContributions
+![Partial](https://img.shields.io/badge/status-partial-orange.svg)
 
-* Old url: https://toolserver.org/~krinkle/MoreContributions/
-* Source: [MoreContributions](./public_html/MoreContributions/)
+* Status: Superseded by [**tools.wmflabs.org/guc**](https://tools.wmflabs.org/guc/)
+  <br>Track [issue #64499](https://bugzilla.wikimedia.org/show_bug.cgi?id=64499) for wildcard user names.
+* Source code: [MoreContributions](./public_html/MoreContributions/)
+* Old address: https://toolserver.org/~krinkle/MoreContributions/
 
-Screenshot:
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424353/08c29bb0-ffcc-11e3-82ff-42c7f53a738f.png)
 
 ## CommonsCreatorLister
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/CommonsCreatorLister/
-* Source: [CommonsCreatorLister](./public_html/CommonsCreatorLister/)
+* Status: Wasn't actively maintained or used.
+  <br>File an issue if you're a developer who will co-own. If there's enough intersted users, we can revive and migrate this.
+* Source code: [CommonsCreatorLister](./public_html/CommonsCreatorLister/)
+* Old address: https://toolserver.org/~krinkle/CommonsCreatorLister/
 
-Screenshots:
+Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424637/71d72f54-ffda-11e3-962f-842d59011ce2.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424636/71d68cfc-ffda-11e3-9c6d-1044de958d3e.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424635/71d6652e-ffda-11e3-9480-eefb8a8c2fd9.png)
 
 ## TSUsers
+![Obsolete](https://img.shields.io/badge/status-obsolete-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/TSUsers.php
-* Source: [TSUsers.php](./public_html/TSUsers.php)
+* Source code: [TSUsers.php](./public_html/TSUsers.php)
+* Old address: https://toolserver.org/~krinkle/TSUsers.php
 
-Screenshot:
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424695/d8804458-ffde-11e3-86d3-a1974c625f06.png)
 
 ## wmfBugZillaPortal
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/wmfBugZillaPortal/
-* Source: [ts-krinkle-wmfBugZillaPortal.git](https://github.com/Krinkle/ts-krinkle-wmfBugZillaPortal)
+* Status: Wasn't actively maintained or used.
+  <br>Code is available for re-use by interested developers.
+* Old address: https://toolserver.org/~krinkle/wmfBugZillaPortal/
+* Source code: [ts-krinkle-wmfBugZillaPortal.git](https://github.com/Krinkle/ts-krinkle-wmfBugZillaPortal)
 
-Screenshot:
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428015/f6f9b822-003a-11e4-8731-c032e93c0bd7.png)
 
 ## CommonsMoveReview
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/CommonsMoveReview.php
-* Source: [CommonsMoveReview.php](./public_html/CommonsMoveReview.php)
+* Status: Wasn't actively maintained or used.
+  <br>Code is available for re-use by interested developers.
+* Source code: [CommonsMoveReview.php](./public_html/CommonsMoveReview.php)
+* Old address: https://toolserver.org/~krinkle/CommonsMoveReview.php
 
-Screenshot:
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428344/6207f896-003f-11e4-9d85-f763f3dff5e4.png)
 
 ## SpeedUserPatrol
+![Obsolete](https://img.shields.io/badge/status-obsolete-brightgreen.svg)
 
-* Old url: https://toolserver.org/~krinkle/SpeedUserPatrol.php
-* Source: [SpeedUserPatrol.php](./public_html/SpeedUserPatrol.php)
+Superseded by [**RTRC** (gadget)](https://meta.wikimedia.org/wiki/RTRC).
 
-Screenshot:
+* Source code: [SpeedUserPatrol.php](./public_html/SpeedUserPatrol.php)
+* Old address: https://toolserver.org/~krinkle/SpeedUserPatrol.php
+
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428453/ead06cc0-0040-11e4-980f-17a941faeb65.png)
 
+## SpeedPagePatrol
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-red.svg)
+
+* Status: No longer worked due to changes in the MediaWiki software.
+  <br>RTRC might incorporate this feature, track https://github.com/Krinkle/mw-gadget-rtrc/issues/35.
+* Source code: [SpeedPagePatrol.php](./public_html/SpeedPagePatrol.php)
+* Old address: https://toolserver.org/~krinkle/SpeedPagePatrol.php
+
+Old portrait:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3455462/798fccb6-01e1-11e4-95b5-cfa32c92eddd.png)
+
 ## InterfaceFiles
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/InterfaceFiles.php
-* Source: [InterfaceFiles.php](./public_html/InterfaceFiles.php)
+* Source code: [InterfaceFiles.php](./public_html/InterfaceFiles.php)
+* Old address: https://toolserver.org/~krinkle/InterfaceFiles.php
 
-Screenshots:
+Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428555/259d63de-0042-11e4-8bcb-a908140048ab.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428556/259dd33c-0042-11e4-8be2-ca48a25ba121.png)
 
 ## mwDatabaseSchema
+![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
 
-* Old url: https://toolserver.org/~krinkle/mwDatabaseSchema/
-* Source: [mwDatabaseSchema](./public_html/mwDatabaseSchema/)
+Migrated to [**krinkle.github.io/ts-krinkle-misc/mwDatabaseSchema**](https://krinkle.github.io/ts-krinkle-misc/mwDatabaseSchema/).
 
-Screenshot:
+* Source code: [mwDatabaseSchema](./public_html/mwDatabaseSchema/)
+* Old address: https://toolserver.org/~krinkle/mwDatabaseSchema/
+
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428684/56bcd128-0044-11e4-9d60-eed4dcdfe75d.png)
 
 ## getWikiAPI
+![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
 
-* Old url: https://toolserver.org/~krinkle/getWikiAPI/
-* Source: [ts-krinkle-getWikiAPI.git](https://github.com/Krinkle/wmf-tool-wikiinfo/tree/v0.3.0)
+Migrated to [**tools.wmflabs.org/wikiinfo**](https://tools.wmflabs.org/wikiinfo/).
 
-Screenshots:
+* Source code: [ts-krinkle-getWikiAPI.git](https://github.com/Krinkle/wmf-tool-wikiinfo/tree/v0.3.0)
+* Old address: https://toolserver.org/~krinkle/getWikiAPI/
+
+Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429548/cfad0204-0055-11e4-8946-29e0d90ab3bb.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429547/cfac9a08-0055-11e4-94a8-c5dff0ad99be.png)
 
 ## SingleAuthorTalk
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/SingleAuthorTalk.php
-* Source: [SingleAuthorTalk.php](./public_html/SingleAuthorTalk.php)
+* Source code: [SingleAuthorTalk.php](./public_html/SingleAuthorTalk.php)
+* Old address: https://toolserver.org/~krinkle/SingleAuthorTalk.php
 
-Screenshot:
+Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432461/01fe2066-0075-11e4-89fa-6b9c5b2ea4f9.png)
 
 ## SiteMatrixChecklist
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/SiteMatrixChecklist/
-* Source: [SiteMatrixChecklist](./public_html/SiteMatrixChecklist/)
+* Old address: https://toolserver.org/~krinkle/SiteMatrixChecklist/
+* Source code: [SiteMatrixChecklist](./public_html/SiteMatrixChecklist/)
 
-Screenshots:
+Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432917/20a51600-007a-11e4-91e0-ba2257e72967.png)
 
 ## WikiInfo
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old url: https://toolserver.org/~krinkle/WikiInfo/
-* Source: [WikiInfo](./public_html/WikiInfo/)
+* Old address: https://toolserver.org/~krinkle/WikiInfo/
+* Source code: [WikiInfo](./public_html/WikiInfo/)
 
-Screenshots:
+Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433133/6c5c5db8-007c-11e4-8b25-dd711a40078b.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433135/6c5cef08-007c-11e4-9e20-dc0a08e11240.png)
 <table><tr>
@@ -164,14 +213,9 @@ Screenshots:
 </tr></table>
 
 ## TestWikipediaCrapPopulation
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
+* Status: Taken down as was no longer useful.
+  <br>Code is available for re-use by interested developers.
+* Source code: [TestWikipediaCrapPopulation](./bots/TestWikipediaCrapPopulation/)
 * Bot actions: [Sample edits on test.wikipedia.org](https://test.wikipedia.org/wiki/Special:Contributions/KrinkleBot?year=2013&month=2&namespace=2)
-* Source: [TestWikipediaCrapPopulation](./bots/TestWikipediaCrapPopulation/)
-
-## SpeedPagePatrol
-
-* Old url: https://toolserver.org/~krinkle/SpeedPagePatrol.php
-* Source: [SpeedPagePatrol.php](./public_html/SpeedPagePatrol.php)
-
-Screenshot:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3455462/798fccb6-01e1-11e4-95b5-cfa32c92eddd.png)
