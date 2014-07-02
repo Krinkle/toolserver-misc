@@ -102,8 +102,8 @@ Old portrait:
 
 * Status: Wasn't actively maintained or used.
   <br>Code is available for re-use by interested developers.
-* Old address: https://toolserver.org/~krinkle/wmfBugZillaPortal/
 * Source code: [ts-krinkle-wmfBugZillaPortal.git](https://github.com/Krinkle/ts-krinkle-wmfBugZillaPortal)
+* Old address: https://toolserver.org/~krinkle/wmfBugZillaPortal/
 
 Old portrait:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428015/f6f9b822-003a-11e4-8731-c032e93c0bd7.png)
@@ -186,8 +186,8 @@ Old portrait:
 ## SiteMatrixChecklist
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old address: https://toolserver.org/~krinkle/SiteMatrixChecklist/
 * Source code: [SiteMatrixChecklist](./public_html/SiteMatrixChecklist/)
+* Old address: https://toolserver.org/~krinkle/SiteMatrixChecklist/
 
 Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png)
@@ -196,8 +196,8 @@ Old portraits:
 ## WikiInfo
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
 
-* Old address: https://toolserver.org/~krinkle/WikiInfo/
 * Source code: [WikiInfo](./public_html/WikiInfo/)
+* Old address: https://toolserver.org/~krinkle/WikiInfo/
 
 Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433133/6c5c5db8-007c-11e4-8b25-dd711a40078b.png)
