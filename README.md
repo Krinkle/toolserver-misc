@@ -5,6 +5,7 @@
 * [Get Top RC Pages](#get-top-rc-pages)
 * [Get Top RC Users](#get-top-rc-users)
 * [getWikiAPI](#getwikiapi)
+* [getWMML](#getwmml)
 * [InterfaceFiles](#interfacefiles)
 * [KrinkleSausage](#krinklesausage)
 * [MoreContributions](#morecontributions)
@@ -219,3 +220,10 @@ Old portraits:
   <br>Code is available for re-use by interested developers.
 * Source code: [TestWikipediaCrapPopulation](./bots/TestWikipediaCrapPopulation/)
 * Bot actions: [Sample edits on test.wikipedia.org](https://test.wikipedia.org/wiki/Special:Contributions/KrinkleBot?year=2013&month=2&namespace=2)
+
+## getWMML
+![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
+
+Migrated to [**tools.wmflabs.org/list**](https://tools.wmflabs.org/list/).
+
+* Source code: [getWMML.php](https://github.com/Krinkle/wmf-tool-list/blob/v0.0.2/getWMML.php)
