@@ -11,6 +11,7 @@
 * [mwDatabaseSchema](#mwdatabaseschema)
 * [SingleAuthorTalk](#singleauthortalk)
 * [SiteMatrixChecklist](#sitematrixchecklist)
+* [SpeedPagePatrol](#speedpagepatrol)
 * [SpeedUserPatrol](#speeduserpatrol)
 * [TestWikipediaCrapPopulation](#testwikipediacrappopulation)
 * [TSUsers](#tsusers)
@@ -166,3 +167,11 @@ Screenshots:
 
 * Bot actions: [Sample edits on test.wikipedia.org](https://test.wikipedia.org/wiki/Special:Contributions/KrinkleBot?year=2013&month=2&namespace=2)
 * Source: [TestWikipediaCrapPopulation](./bots/TestWikipediaCrapPopulation/)
+
+## SpeedPagePatrol
+
+* Old url: https://toolserver.org/~krinkle/SpeedPagePatrol.php
+* Source: [SpeedPagePatrol.php](./public_html/SpeedPagePatrol.php)
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/156867/3455462/798fccb6-01e1-11e4-95b5-cfa32c92eddd.png)
