@@ -68,8 +68,10 @@ Old portrait:
 ## MoreContributions
 ![Partial](https://img.shields.io/badge/status-partial-orange.svg)
 
-* Status: Superseded by [**tools.wmflabs.org/guc**](https://tools.wmflabs.org/guc/)
-  <br>Track [issue #64499](https://bugzilla.wikimedia.org/show_bug.cgi?id=64499) for wildcard user names.
+* Status: Superseded by [**tools.wmflabs.org/guc**](https://tools.wmflabs.org/guc/)<br/>
+  Some features are yet to be ported:
+  * [issue #64499](https://bugzilla.wikimedia.org/show_bug.cgi?id=64499) (wildcard user names)
+  * [issue #68358](https://bugzilla.wikimedia.org/show_bug.cgi?id=68358) (sort entries chronologically)
 * Source code: [MoreContributions](./public_html/MoreContributions/)
 * Old address: https://toolserver.org/~krinkle/MoreContributions/
 
