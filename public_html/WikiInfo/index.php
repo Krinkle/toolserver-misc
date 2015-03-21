@@ -310,7 +310,7 @@ krLog('-- MySQL Links closed');
  */
 	// Returns all GET-parameters as array
 	function krParseUrlParams(l) {
-		var url = l ? l : document.location.href;
+		var url = l ? l : location.href;
 		var match = url.match(/\?[^#]*/);
 		if (match === null) return null;
 		var query = match[0];
