@@ -157,7 +157,7 @@ Old portraits:
 ## mwDatabaseSchema
 ![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
 
-Migrated to [**krinkle.github.io/ts-krinkle-misc/mwDatabaseSchema**](https://krinkle.github.io/ts-krinkle-misc/mwDatabaseSchema/).
+Migrated to [**github.com/Krinkle/ts-krinkle-misc#mwDatabaseSchema**](https://github.com/Krinkle/ts-krinkle-misc/tree/master/public_html/mwDatabaseSchema).
 
 * Source code: [mwDatabaseSchema](./public_html/mwDatabaseSchema/)
 * Old address: https://toolserver.org/~krinkle/mwDatabaseSchema/
