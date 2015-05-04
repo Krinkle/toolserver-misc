@@ -1,4 +1,4 @@
-# Krinkle's Toolserver graveyard
+# Krinkle's Toolserver memorial
 
 * [CommonsCreatorLister](#commonscreatorlister)
 * [CommonsMoveReview](#commonsmovereview)
