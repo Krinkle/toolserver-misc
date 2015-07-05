@@ -16,6 +16,7 @@
 * [SpeedUserPatrol](#speeduserpatrol)
 * [TestWikipediaCrapPopulation](#testwikipediacrappopulation)
 * [TSUsers](#tsusers)
+* [wgLogoUsage](#wglogousage)
 * [WikiInfo](#wikiinfo)
 * [wikimedia-svn-stats](#wikimedia-svn-stats)
 * [wmfBugZillaPortal](#wmfbugzillaportal)
@@ -195,6 +196,14 @@ Old portrait:
 Old portraits:
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png)
 ![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432917/20a51600-007a-11e4-91e0-ba2257e72967.png)
+
+## wgLogoUsage
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-green.svg)
+
+Obsolete now that project logos are stored the [operations/mediawiki-config](https://github.com/wikimedia/operations-mediawiki-config) repository.
+
+* Source code: [wgLogoUsage](./public_html/wgLogoUsage/)
+* Old address: https://toolserver.org/~krinkle/wgLogoUsage/
 
 ## WikiInfo
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
