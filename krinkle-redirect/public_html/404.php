@@ -19,7 +19,7 @@ if ( isset( $_SERVER['REQUEST_URI'] ) ) {
 		'InterfaceFiles.php' => '#interfacefiles',
 		'SingleAuthorTalk.php' => '#singleauthortalk',
 		'SiteMatrixChecklist/' => '#sitematrixchecklist',
-		'wgLogoUsage' => '#wikilogos',
+		'wgLogoUsage/' => '#wglogousage',
 		'WikiInfo/' => '#wikiinfo',
 		'404.php' => '/blob/master/krinkle-redirect/public_html/404.php',
 	);
