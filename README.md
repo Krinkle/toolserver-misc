@@ -45,7 +45,8 @@ Migrated to [**tools.wmflabs.org/usage**](https://tools.wmflabs.org/usage/?actio
 * Old address: http://krinkle-tools.grizzdesign.nl/KrinkleSausage.php
 
 Old portrait:
-![Screenshot](https://user-images.githubusercontent.com/156867/44926602-e1f5cb80-ad49-11e8-9970-78ef9a418560.png)
+
+<img src="https://user-images.githubusercontent.com/156867/44926602-e1f5cb80-ad49-11e8-9970-78ef9a418560.png" height="500" title="Screenshot"/>
 
 ## Get Top RC Users
 ![Pending migration](https://img.shields.io/badge/status-pending-orange.svg)
@@ -55,7 +56,8 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/getTopRCusers.php
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3210496/f9f39488-eec6-11e3-8226-ebdf2af7f3cb.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3210496/f9f39488-eec6-11e3-8226-ebdf2af7f3cb.png" height="500" title="Screenshot"/>
 
 ## Get Top RC Pages
 ![Pending migration](https://img.shields.io/badge/status-pending-orange.svg)
@@ -65,7 +67,8 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/getTopRCpages.php
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428500/8250a8ee-0041-11e4-849d-3b9b8546dd90.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3428500/8250a8ee-0041-11e4-849d-3b9b8546dd90.png" height="500" title="Screenshot"/>
 
 ## MoreContributions
 ![Partial](https://img.shields.io/badge/status-partial-orange.svg)
@@ -78,7 +81,8 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/MoreContributions/
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424353/08c29bb0-ffcc-11e3-82ff-42c7f53a738f.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3424353/08c29bb0-ffcc-11e3-82ff-42c7f53a738f.png" height="500" title="Screenshot"/>
 
 ## CommonsCreatorLister
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
@@ -89,9 +93,10 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/CommonsCreatorLister/
 
 Old portraits:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424637/71d72f54-ffda-11e3-962f-842d59011ce2.png)
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424636/71d68cfc-ffda-11e3-9c6d-1044de958d3e.png)
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424635/71d6652e-ffda-11e3-9480-eefb8a8c2fd9.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3424637/71d72f54-ffda-11e3-962f-842d59011ce2.png" height="230" title="Screenshot"/>
+<img src="https://cloud.githubusercontent.com/assets/156867/3424636/71d68cfc-ffda-11e3-9c6d-1044de958d3e.png" height="500" title="Screenshot"/>
+<img src="https://cloud.githubusercontent.com/assets/156867/3424635/71d6652e-ffda-11e3-9480-eefb8a8c2fd9.png" height="500" title="Screenshot"/>
 
 ## TSUsers
 ![Obsolete](https://img.shields.io/badge/status-obsolete-lightgrey.svg)
@@ -100,7 +105,8 @@ Old portraits:
 * Old address: https://toolserver.org/~krinkle/TSUsers.php
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3424695/d8804458-ffde-11e3-86d3-a1974c625f06.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3424695/d8804458-ffde-11e3-86d3-a1974c625f06.png" height="450" title="Screenshot"/>
 
 ## wmfBugZillaPortal
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
@@ -111,7 +117,8 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/wmfBugZillaPortal/
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428015/f6f9b822-003a-11e4-8731-c032e93c0bd7.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3428015/f6f9b822-003a-11e4-8731-c032e93c0bd7.png" height="500" title="Screenshot"/>
 
 ## CommonsMoveReview
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
@@ -122,7 +129,8 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/CommonsMoveReview.php
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428344/6207f896-003f-11e4-9d85-f763f3dff5e4.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3428344/6207f896-003f-11e4-9d85-f763f3dff5e4.png" height="420" title="Screenshot"/>
 
 ## SpeedUserPatrol
 ![Obsolete](https://img.shields.io/badge/status-obsolete-brightgreen.svg)
@@ -133,7 +141,8 @@ Superseded by [**RTRC** (gadget)](https://meta.wikimedia.org/wiki/RTRC).
 * Old address: https://toolserver.org/~krinkle/SpeedUserPatrol.php
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428453/ead06cc0-0040-11e4-980f-17a941faeb65.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3428453/ead06cc0-0040-11e4-980f-17a941faeb65.png" height="500" title="Screenshot"/>
 
 ## SpeedPagePatrol
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-red.svg)
@@ -144,7 +153,8 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/SpeedPagePatrol.php
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3455462/798fccb6-01e1-11e4-95b5-cfa32c92eddd.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3455462/798fccb6-01e1-11e4-95b5-cfa32c92eddd.png" height="500" title="Screenshot"/>
 
 ## InterfaceFiles
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
@@ -153,8 +163,9 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/InterfaceFiles.php
 
 Old portraits:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428555/259d63de-0042-11e4-8bcb-a908140048ab.png)
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428556/259dd33c-0042-11e4-8be2-ca48a25ba121.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3428555/259d63de-0042-11e4-8bcb-a908140048ab.png" height="500" title="Screenshot"/>
+<img src="https://cloud.githubusercontent.com/assets/156867/3428556/259dd33c-0042-11e4-8be2-ca48a25ba121.png" height="500" title="Screenshot"/>
 
 ## mwDatabaseSchema
 ![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
@@ -165,7 +176,8 @@ Migrated to [**github.com/Krinkle/ts-krinkle-misc#mwDatabaseSchema**](https://gi
 * Old address: https://toolserver.org/~krinkle/mwDatabaseSchema/
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3428684/56bcd128-0044-11e4-9d60-eed4dcdfe75d.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3428684/56bcd128-0044-11e4-9d60-eed4dcdfe75d.png" height="500" title="Screenshot"/>
 
 ## getWikiAPI
 ![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
@@ -176,8 +188,9 @@ Migrated to [**tools.wmflabs.org/wikiinfo**](https://tools.wmflabs.org/wikiinfo/
 * Old address: https://toolserver.org/~krinkle/getWikiAPI/
 
 Old portraits:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429548/cfad0204-0055-11e4-8946-29e0d90ab3bb.png)
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3429547/cfac9a08-0055-11e4-94a8-c5dff0ad99be.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3429548/cfad0204-0055-11e4-8946-29e0d90ab3bb.png" height="300" title="Screenshot"/>
+<img src="https://cloud.githubusercontent.com/assets/156867/3429547/cfac9a08-0055-11e4-94a8-c5dff0ad99be.png" height="450" title="Screenshot"/>
 
 ## SingleAuthorTalk
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
@@ -186,7 +199,8 @@ Old portraits:
 * Old address: https://toolserver.org/~krinkle/SingleAuthorTalk.php
 
 Old portrait:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432461/01fe2066-0075-11e4-89fa-6b9c5b2ea4f9.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3432461/01fe2066-0075-11e4-89fa-6b9c5b2ea4f9.png" height="450" title="Screenshot"/>
 
 ## SiteMatrixChecklist
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
@@ -195,8 +209,9 @@ Old portrait:
 * Old address: https://toolserver.org/~krinkle/SiteMatrixChecklist/
 
 Old portraits:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png)
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3432917/20a51600-007a-11e4-91e0-ba2257e72967.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3432901/fa7477d2-0079-11e4-9b4e-93260bd97350.png" height="450" title="Screenshot"/>
+<img src="https://cloud.githubusercontent.com/assets/156867/3432917/20a51600-007a-11e4-91e0-ba2257e72967.png" height="300" title="Screenshot"/>
 
 ## wgLogoUsage
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-green.svg)
@@ -213,8 +228,9 @@ Obsolete now that project logos are stored the [operations/mediawiki-config](htt
 * Old address: https://toolserver.org/~krinkle/WikiInfo/
 
 Old portraits:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433133/6c5c5db8-007c-11e4-8b25-dd711a40078b.png)
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3433135/6c5cef08-007c-11e4-9e20-dc0a08e11240.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3433133/6c5c5db8-007c-11e4-8b25-dd711a40078b.png" height="450" title="Screenshot"/>
+<img src="https://cloud.githubusercontent.com/assets/156867/3433135/6c5cef08-007c-11e4-9e20-dc0a08e11240.png" height="350" title="Screenshot"/>
 <table><tr>
 <th>Size</th>
 <th>Most recent edit</th>
