@@ -32,8 +32,9 @@ Superseded by [**github.com/search @wikimedia**](https://github.com/search?q=wgH
 * Old address: https://toolserver.org/~krinkle/wikimedia-svn-stats.php
 
 Old portraits:
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048135/83ea433c-e141-11e3-9d25-681bdb76fcba.png)
-![Screenshot](https://cloud.githubusercontent.com/assets/156867/3048137/8be0c0f2-e141-11e3-8b72-b66024bd24c0.png)
+
+<img src="https://cloud.githubusercontent.com/assets/156867/3048135/83ea433c-e141-11e3-9d25-681bdb76fcba.png" height="500" title="Screenshot"/>
+<img src="https://cloud.githubusercontent.com/assets/156867/3048137/8be0c0f2-e141-11e3-8b72-b66024bd24c0.png" height="500" title="Screenshot"/>
 
 ## Krinkle's Usage
 ![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
