@@ -2,6 +2,7 @@
 
 * [CommonsCreatorLister](#commonscreatorlister)
 * [CommonsMoveReview](#commonsmovereview)
+* [CommonsUploadPatrol](#commonsuploadpatrol)
 * [Get Top RC Pages](#get-top-rc-pages)
 * [Get Top RC Users](#get-top-rc-users)
 * [getWikiAPI](#getwikiapi)
@@ -131,6 +132,20 @@ Old portrait:
 Old portrait:
 
 <img src="https://cloud.githubusercontent.com/assets/156867/3428344/6207f896-003f-11e4-9d85-f763f3dff5e4.png" height="420" title="Screenshot"/>
+
+## CommonsUploadPatrol
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
+
+* Status: Unmaintained.
+* Source code: Lost in Toolserver heavens.
+* Former address: https://toolserver.org/~krinkle/CommonsUploadPatrol/
+* Documentation: <https://meta.wikimedia.org/wiki/User:Krinkle/Tools/Commons_Upload_Patrol>
+* Project page: <https://commons.wikimedia.org/wiki/Commons:Recent_uploads_patrol>
+
+Portrait:
+
+<img src="https://cloud.githubusercontent.com/assets/156867/11013166/c1c4418c-84f9-11e5-9349-ecf2ba3078de.png" height="500" title="Screenshot"/>
+
 
 ## SpeedUserPatrol
 ![Obsolete](https://img.shields.io/badge/status-obsolete-brightgreen.svg)
