@@ -1,0 +1,7 @@
+I, Timo Tijhof, hereby publish the files in this directory under the following licenses:
+
+1. The MIT License.
+   https://krinkle.mit-license.org/@2017
+
+2. The Creative Commons Attribution-ShareAlike 4.0 International license.
+   https://creativecommons.org/licenses/by-sa/4.0/legalcode
