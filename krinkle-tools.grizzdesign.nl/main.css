@@ -1,0 +1,70 @@
+*						{ margin:0; padding:0; list-style-position:inside }
+html					{ overflow-y:auto }
+body					{ font:14px/1 Georgia, Serif; color:#333333; line-height:20px }
+.nonserif, .ns			{ font-family: "Helvetiva Neue", Helvetica, Arial, sans-serif }
+p, li					{ margin:0 0 5px 0 }
+ul ul, ul ol, ol ol, ol ul { padding-left: 20px }
+img						{ vertical-align:middle }
+a, a img				{ border:none; outline:none }
+.floatLeft				{ float:left }
+.floatRight				{ float:right }
+.clear, *[clear]		{ clear:both }
+.hide, *[x]				{ display:none }
+
+#page-wrap				{ width:700px; margin:25px auto 40px; z-index:3000px; padding:0 20px; position:relative }
+
+.JS h1:hover			{ cursor:pointer }
+h2, h3, h4, h5			{ margin:25px 0 15px -20px; font-weight:bold }
+h1						{ font:26px Georgia, Serif; margin:10px 0 }
+h3						{ font-size:19px }
+h4						{ font-size:15px; margin:15px 0 5px -15px; }
+h5						{ font-size:14px; margin:7px 0 2px 0; font-weight:normal }
+hr						{ margin:0.2em 0 }
+hr.outside				{ margin-left: -20px }
+
+a, .link, .link:visited { color:#0645ad; text-decoration:none }
+a:active, link:active	{ color:#faa700 }
+a:visited				{ color:rgb(122, 150, 205) }
+.nonvisitedlinks a:visited { color:#0645ad }
+h1 a					{ color:#333333 !important; text-decoration:none }
+
+.js-only				{ display:none }
+.JS .js-only			{ display:block }
+.non-js					{ display:block }
+.JS .non-js				{ display:none }
+
+.msg					{ margin:5px 0 10px 0; padding:5px 8px;
+						  background:rgb(233, 233, 233); border:1px solid #888; font-weight:bold;
+						  -webkit-border-radius:5px; -moz-border-radius:5px;
+						  -webkit-box-shadow:1px 1px 5px #888; -moz-box-shadow:1px 1px 5px #888 }
+.msg a					{ display:block; text-align:center }
+.thanks					{ color:green }
+.msg.thanks				{ background:rgb(153, 255, 51); border:1px solid green;
+						  -webkit-box-shadow:1px 1px 5px green; -moz-box-shadow:1px 1px 5px green }
+
+.error					{ color:red }
+.msg.error				{ color:black; background:rgb(255, 242, 242); border:2px solid red;
+						  -webkit-box-shadow:1px 1px 5px red; -moz-box-shadow:1px 1px 5px red }
+
+span.req				{ color:red !important }
+
+input[type="submit"]	{ float:right }
+textarea				{ margin:5px 0 10px 0 }
+
+/* elements */
+#htmlinput				{ font-family:'courier new'; overflow:auto }
+
+#htmloutput-wrap		{ background-color:#ddd; margin:5px 0 50px 0; padding:15px;
+						  overflow:auto }
+#htmloutput				{ background-color:rgb(233, 233, 233); padding:5px 8px;
+						  font-family:'courier new'; min-height:72px }
+
+#copied-notice2			{ position:fixed; top:0; left:0; width:100%; z-index:8000px }
+#copied-notice			{ margin:0 auto; padding:20px; background-color:#eee;
+						  width:auto; text-align:center; font-size:300%; display:none }
+
+pre.js-copy				{ background:rgb(233, 233, 233) url(clipboard-64px.png) top right no-repeat }
+
+#cc code,
+#cc div					{ display:block;  margin-left:15px;
+						  padding:5px; border:1px dotted #888 }

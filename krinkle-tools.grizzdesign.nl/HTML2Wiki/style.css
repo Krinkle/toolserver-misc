@@ -1,0 +1,49 @@
+*						{ margin: 0; padding: 0; list-style-position: inside; }
+html					{ overflow-y: auto; }
+body					{ font: 14px/1 Georgia, Serif; color: #333333; line-height: 20px;}
+p, li					{ margin: 0 0 5px 0; }
+img						{ vertical-align: middle; }
+.clear					{ clear: both; }
+
+#page-wrap				{ width: 700px; margin: 40px auto 40px; z-index: 3000px;}
+
+h1						{ font: 26px Georgia, Serif; margin: 10px 0; }
+.JS h1					{ cursor: pointer; }
+h2, h3, h4				{ margin: 15px 0 2px -20px; }
+
+.msg					{ margin: 5px 0 10px 0; padding: 5px 8px;
+						  background: rgb(233, 233, 233); border: 1px solid #888; font-weight: bold;
+						  -webkit-border-radius: 5px; -moz-border-radius: 5px;
+						  -webkit-box-shadow: 1px 1px 5px #888; -moz-box-shadow: 1px 1px 5px #888; }
+.msg a					{ display: block; text-align: center; }
+.thanks					{ color: green; }
+.msg.thanks				{ background: rgb(153, 255, 51); border: 1px solid green;
+						  -webkit-box-shadow: 1px 1px 5px green; -moz-box-shadow: 1px 1px 5px green; }
+
+.error					{ color: red; }
+.msg.error				{ color: black; background: rgb(255, 242, 242); border: 2px solid red;
+						  -webkit-box-shadow: 1px 1px 5px red; -moz-box-shadow: 1px 1px 5px red; }
+
+span.req				{ color: red !important; }
+
+input[type="submit"]	{ float: right; }
+textarea				{ margin: 5px 0 10px 0; }
+
+/* elements */
+#htmlinput				{ font-family: 'courier new'; overflow: auto;}
+
+#htmloutput-wrap		{ background-color: #ddd; margin: 5px 0 50px 0; padding: 15px;
+						  overflow: auto; }
+#htmloutput				{ background-color: rgb(233, 233, 233); padding: 5px 8px;
+						  font-family: 'courier new'; min-height: 72px; }
+
+#copied-notice2			{ position: fixed; top: 0; left: 0; width: 100%; z-index: 8000px; }
+#copied-notice			{ margin: 0 auto; padding: 20px; background-color: #eee;
+						  width: auto; text-align: center; font-size: 300%; display: none; }
+
+
+pre.js-copy				{ background: rgb(233, 233, 233) url(clipboard-64px.png) top right no-repeat; }
+
+#cc code,
+#cc div					{ display: block;  margin-left: 15px;
+						  padding: 5px; border: 1px dotted #888; }
