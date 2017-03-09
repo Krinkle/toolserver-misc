@@ -1,0 +1,20 @@
+AddDefaultCharset UTF-8
+
+# Superseeded, forward to documentation of suggested replacement
+Redirect 301 /__hAsh0.php https://meta.wikimedia.org/wiki/User:Krinkle/Tools
+Redirect 301 /__newAPI.php https://meta.wikimedia.org/wiki/User:Krinkle/Tools
+Redirect 301 /RTRC_0.2_hAsh0 https://meta.wikimedia.org/wiki/User:Krinkle/Tools/Real-Time_Recent_Changes#
+Redirect 301 /RTRC_1.0old https://meta.wikimedia.org/wiki/User:Krinkle/Tools/Real-Time_Recent_Changes#
+Redirect 301 /RTRC_1.0rewrite https://meta.wikimedia.org/wiki/User:Krinkle/Tools/Real-Time_Recent_Changes#
+
+# Moved, forward to new rewritten version on Toolserver or Tool Labs
+Redirect 301 /bookmarklets https://toolserver.org/~krinkle/bookmarklets
+Redirect 301 /MediaWiki_database_schema https://toolserver.org/~krinkle/mwDatabaseSchema
+Redirect 301 /BlankPages.php https://tools.wmflabs.org/blankpages/
+Redirect 301 /KrinkleSausage.php https://tools.wmflabs.org/usage/?action=usage&group=Krinkle
+
+# Blog
+Redirect 301 /feed https://timotijhof.net/category/toolserver
+
+# Everything else
+RedirectMatch 301 / https://github.com/Krinkle/ts-krinkle-misc/tree/master/krinkle-tools.grizzdesign.nl
