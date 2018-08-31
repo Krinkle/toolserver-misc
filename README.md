@@ -72,10 +72,10 @@ Old portrait:
 <img src="https://cloud.githubusercontent.com/assets/156867/3428500/8250a8ee-0041-11e4-849d-3b9b8546dd90.png" height="500" title="Screenshot"/>
 
 ## MoreContributions
-![Partial](https://img.shields.io/badge/status-partial-orange.svg)
+![Migrated](https://img.shields.io/badge/status-migrated-brightgreen.svg)
 
-* Status: Superseded by [**tools.wmflabs.org/guc**](https://tools.wmflabs.org/guc/)<br/>
-  Some features are yet to be ported:
+* Status: Integrated with [**tools.wmflabs.org/guc**](https://tools.wmflabs.org/guc/)<br/>
+  Including:
   * [issue #64499](https://bugzilla.wikimedia.org/show_bug.cgi?id=64499) (wildcard user names)
   * [issue #68358](https://bugzilla.wikimedia.org/show_bug.cgi?id=68358) (sort entries chronologically)
 * Source code: [MoreContributions](./public_html/MoreContributions/)
