@@ -10,6 +10,7 @@
 * [InterfaceFiles](#interfacefiles)
 * [Krinkle's Usage](#krinkles-usage)
 * [MoreContributions](#morecontributions)
+* [MoreWatchlists](#morewatchlists)
 * [mwDatabaseSchema](#mwdatabaseschema)
 * [SingleAuthorTalk](#singleauthortalk)
 * [SiteMatrixChecklist](#sitematrixchecklist)
@@ -84,6 +85,19 @@ Old portrait:
 Old portrait:
 
 <img src="https://cloud.githubusercontent.com/assets/156867/3424353/08c29bb0-ffcc-11e3-82ff-42c7f53a738f.png" height="500" title="Screenshot"/>
+
+
+## MoreWatchlists
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
+
+* Status: No longer had the time to look after it and stopped working when `watchlisttoken` was removed from the MediaWiki API via `action=query&meta=userinfo&uiprop=options` (following security improvements). Should be relatively easy to bring back via BotPasswords or OAuth.
+* Source code: [MoreWatchlists](./krinkle-tools.grizzdesign.nl/MoreWatchlists/)
+* Old adddress: http://krinkle-tools.grizzdesign.nl/MoreWatchlists/
+
+Old portraits:
+
+<img src="https://user-images.githubusercontent.com/156867/48884052-9ae41780-ee1a-11e8-9de5-9b7588ff2830.png" height="221" title="Screenshot of form">
+<img src="https://user-images.githubusercontent.com/156867/48884053-9ae41780-ee1a-11e8-9cf4-397126aa5e81.png" height="240" title="Screenshot of feed">
 
 ## CommonsCreatorLister
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-lightgrey.svg)
