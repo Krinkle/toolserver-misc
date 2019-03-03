@@ -20,16 +20,23 @@
 * [TSUsers](#tsusers)
 * [wgLogoUsage](#wglogousage)
 * [WikiInfo](#wikiinfo)
+* [wikimedia-svn-search](#wikimedia-svn-search)
 * [wikimedia-svn-stats](#wikimedia-svn-stats)
 * [wmfBugZillaPortal](#wmfbugzillaportal)
+
+## wikimedia-svn-search
+![Decommissioned](https://img.shields.io/badge/status-decommissioned-green.svg)
+
+Superseded by [**github.com/search @wikimedia**](https://github.com/search?q=wgHooks+%40wikimedia&type=Code), and [Legoktm's Codesearch](https://codesearch.wmflabs.org/).
+
+Old portraits:
+
+<img height="355" alt="Screenshot" src="https://user-images.githubusercontent.com/156867/53689232-12dea980-3d49-11e9-88ff-af901deac94f.png">
+
 
 ## wikimedia-svn-stats
 ![Decommissioned](https://img.shields.io/badge/status-decommissioned-green.svg)
 
-Superseded by [**github.com/search @wikimedia**](https://github.com/search?q=wgHooks+%40wikimedia&type=Code).
-
-* Status: Taken down as Wikimedia SVN is no longer in use.
-  <br>The new Git repositories are mirrored on GitHub which has a much better search engine.
 * Source code: [wikimedia-svn-stats.php](./public_html/wikimedia-svn-stats.php)
 * Old address: https://toolserver.org/~krinkle/wikimedia-svn-stats.php
 
